@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-###Im an IT student at Poznan University of Technology, learning to code. 
+### Im an IT student at Poznan University of Technology, learning to code. 
 
 
 <p align="center">
