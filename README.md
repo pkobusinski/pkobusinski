@@ -1,5 +1,5 @@
-## Hello there 👋
-##### I'm an IT student at Poznan University of Technology, learning to code. 
+# Hello there 👋
+#### I'm an IT student at Poznan University of Technology, learning to code. 
 <br/>
 <h3 align="center"> Languages and Frameworks i like to use: </h3>
 <br/>
