@@ -4,7 +4,7 @@
 <h3 align="center"> Languages and Frameworks i like to use: </h3>
 <br/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,angular,postgres,git,r,latex,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,angular,html,css,postgres,git,r,latex,linux" />
 </p>
 <br/>
 <p align="center">
